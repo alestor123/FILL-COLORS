@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/alestor123/FILL-COLORS/issues"
   },
-  "homepage": "https://github.com/alestor123/FILL-COLORS#readme"
+  "homepage": "https://github.com/alestor123/FILL-COLORS#readme",
+  "dependencies": {
+    "ansi-rainbow": "^1.0.1",
+    "chalk": "^4.1.0"
+  }
 }
