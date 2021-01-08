@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "This is a simple code for fill colors in you terminal",
   "main": "App.js",
+  "bin": {
+    "fill-colors": "App.js"
+  },
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
